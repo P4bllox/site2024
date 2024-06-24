@@ -5,7 +5,7 @@ h1{
     background-color: antiquewhite;
 }
 body{
-    background: linear-gradient(gray, lightgray, lightblue);
+    background: linear-gradient(blue, skyblue, purple, gray, black);
 }
 div{
     text-align: center;
